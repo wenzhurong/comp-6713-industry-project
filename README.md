@@ -8,12 +8,12 @@ This project is an industry project for the UNSW COMP6713 course. It aims to ana
 
 ```
 comp-6713-industry-project/
-├── raw_data/ 				# Raw data folder
-├── salary.ipynb 			# Salary analysis and train notebook
-├── seniority.ipynb 		# Seniority analysis and train notebook
-├── work_arrangement.ipynb 	# Work arrangement analysis and train notebook
-├── README.md 				# Project description file
-└── LICENSE 				# Project license (GPL-3.0)
+├── raw_data/ 				  # Raw data folder
+├── salary.ipynb 			  # Salary analysis and train notebook
+├── seniority.ipynb 		  # Seniority analysis and train notebook
+├── work_arrangement.ipynb 	  # Work arrangement analysis and train notebook
+├── README.md 				  # Project description file
+└── LICENSE 				  # Project license (GPL-3.0)
 ```
 
 ## How to use
