@@ -18,13 +18,13 @@ comp-6713-industry-project/
 
 ## How to use
 
-1. Clone repository：
+1. Clone repository
 
     ```
     git clone https://github.com/wenzhurong/comp-6713-industry-project.git
     ```
 
-2. Run all Jupyter Notebook files：
+2. Run all Jupyter Notebook files
 
 ## Contributers
 ### Group - **kessoku_bank**
